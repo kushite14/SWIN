@@ -1,0 +1,1570 @@
+[
+    {
+        "\ufeffUnit_Ref": "Reception_1",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Reception_1",
+        "Top_Left": "AA4",
+        "Bot_Right": "AB6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Reception1.png",
+        "Top_Left_Pixel": [
+            1300,
+            150
+        ],
+        "Bot_Right_Pixel": [
+            1350,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Reception_2",
+        "Top_Left": "E12",
+        "Bot_Right": "G14",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Reception2.png",
+        "Top_Left_Pixel": [
+            200,
+            550
+        ],
+        "Bot_Right_Pixel": [
+            300,
+            650
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Reception_3",
+        "Top_Left": "T14",
+        "Bot_Right": "U15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Reception3.png",
+        "Top_Left_Pixel": [
+            950,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            1000,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_4",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Reception_4",
+        "Top_Left": "AA14",
+        "Bot_Right": "AB15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Reception4.png",
+        "Top_Left_Pixel": [
+            1300,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            1350,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_5",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Reception_5",
+        "Top_Left": "R7",
+        "Bot_Right": "S8",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Reception5.png",
+        "Top_Left_Pixel": [
+            850,
+            300
+        ],
+        "Bot_Right_Pixel": [
+            900,
+            350
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_6",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Reception_6",
+        "Top_Left": "Q6",
+        "Bot_Right": "S6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Reception6.png",
+        "Top_Left_Pixel": [
+            800,
+            250
+        ],
+        "Bot_Right_Pixel": [
+            900,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_7",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Reception_7",
+        "Top_Left": "K5",
+        "Bot_Right": "L6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Reception7.png",
+        "Top_Left_Pixel": [
+            500,
+            200
+        ],
+        "Bot_Right_Pixel": [
+            550,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_102",
+        "Top_Left": "B12",
+        "Bot_Right": "B13",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic102",
+        "Top_Left_Pixel": [
+            50,
+            550
+        ],
+        "Bot_Right_Pixel": [
+            50,
+            600
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_103",
+        "Top_Left": "B13",
+        "Bot_Right": "B14",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic103",
+        "Top_Left_Pixel": [
+            50,
+            600
+        ],
+        "Bot_Right_Pixel": [
+            50,
+            650
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_104",
+        "Top_Left": "B14",
+        "Bot_Right": "B15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic104",
+        "Top_Left_Pixel": [
+            50,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            50,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Occupational_Therapy",
+        "Top_Left": "C11",
+        "Bot_Right": "C12",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/OT",
+        "Top_Left_Pixel": [
+            100,
+            500
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            550
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Pain_Management_Clinic",
+        "Top_Left": "C13",
+        "Bot_Right": "C14",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic106",
+        "Top_Left_Pixel": [
+            100,
+            600
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            650
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Pain_Man._Procedure_Room",
+        "Top_Left": "C14",
+        "Bot_Right": "C15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic107",
+        "Top_Left_Pixel": [
+            100,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_108",
+        "Top_Left": "B17",
+        "Bot_Right": "C17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic108",
+        "Top_Left_Pixel": [
+            50,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_109",
+        "Top_Left": "C17",
+        "Bot_Right": "D17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic109",
+        "Top_Left_Pixel": [
+            100,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            150,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_110",
+        "Top_Left": "D17",
+        "Bot_Right": "D17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic110",
+        "Top_Left_Pixel": [
+            150,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            150,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_112",
+        "Top_Left": "J12",
+        "Bot_Right": "J13",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic112",
+        "Top_Left_Pixel": [
+            450,
+            550
+        ],
+        "Bot_Right_Pixel": [
+            450,
+            600
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_113",
+        "Top_Left": "J13",
+        "Bot_Right": "J14",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic113",
+        "Top_Left_Pixel": [
+            450,
+            600
+        ],
+        "Bot_Right_Pixel": [
+            450,
+            650
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_114",
+        "Top_Left": "J14",
+        "Bot_Right": "J15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic114",
+        "Top_Left_Pixel": [
+            450,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            450,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_116",
+        "Top_Left": "H14",
+        "Bot_Right": "H15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic116",
+        "Top_Left_Pixel": [
+            350,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            350,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_117",
+        "Top_Left": "J17",
+        "Bot_Right": "J18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic117",
+        "Top_Left_Pixel": [
+            450,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            450,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_118",
+        "Top_Left": "H17",
+        "Bot_Right": "I17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic118",
+        "Top_Left_Pixel": [
+            350,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            400,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_119",
+        "Top_Left": "G17",
+        "Bot_Right": "H17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic119",
+        "Top_Left_Pixel": [
+            300,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            350,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_120",
+        "Top_Left": "F17",
+        "Bot_Right": "G17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic120",
+        "Top_Left_Pixel": [
+            250,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            300,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_121",
+        "Top_Left": "Q17",
+        "Bot_Right": "Q17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic121",
+        "Top_Left_Pixel": [
+            800,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            800,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_122",
+        "Top_Left": "R17",
+        "Bot_Right": "S17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic122",
+        "Top_Left_Pixel": [
+            850,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            900,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_123",
+        "Top_Left": "T17",
+        "Bot_Right": "U17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic123",
+        "Top_Left_Pixel": [
+            950,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            1000,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_124",
+        "Top_Left": "V17",
+        "Bot_Right": "V17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic124",
+        "Top_Left_Pixel": [
+            1050,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            1050,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_125",
+        "Top_Left": "W17",
+        "Bot_Right": "X17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic125",
+        "Top_Left_Pixel": [
+            1100,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            1150,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_126",
+        "Top_Left": "Y17",
+        "Bot_Right": "Y17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic126",
+        "Top_Left_Pixel": [
+            1200,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            1200,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_4",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_131",
+        "Top_Left": "AC17",
+        "Bot_Right": "AD17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic131",
+        "Top_Left_Pixel": [
+            1400,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            1450,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_4",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_132",
+        "Top_Left": "AD17",
+        "Bot_Right": "AE17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic132",
+        "Top_Left_Pixel": [
+            1450,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            1500,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_4",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinic_133",
+        "Top_Left": "AE17",
+        "Bot_Right": "AF17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic133",
+        "Top_Left_Pixel": [
+            1500,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            1550,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Main Entrance",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Main Entrance",
+        "Top_Left": "E4",
+        "Bot_Right": "F5",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Main_Entrance",
+        "Top_Left_Pixel": [
+            200,
+            150
+        ],
+        "Bot_Right_Pixel": [
+            300,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Pharmacy",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Pharmacy",
+        "Top_Left": "AD9",
+        "Bot_Right": "AD11",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Pharmacy",
+        "Top_Left_Pixel": [
+            1500,
+            400
+        ],
+        "Bot_Right_Pixel": [
+            1100,
+            500
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Clinical_Pharmacist",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Clinical_Pharmacist",
+        "Top_Left": "H15",
+        "Bot_Right": "I15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinical_Pharmacist",
+        "Top_Left_Pixel": [
+            400,
+            700
+        ],
+        "Bot_Right_Pixel": [
+            400,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Geriatrics_Clinic",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Geriatrics_Clinic",
+        "Top_Left": "W15",
+        "Bot_Right": "X15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Geriatrics_Clinic",
+        "Top_Left_Pixel": [
+            1150,
+            700
+        ],
+        "Bot_Right_Pixel": [
+            1200,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Males_Shockwave",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Males_Shockwave",
+        "Top_Left": "V14",
+        "Bot_Right": "V15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/SWT.png",
+        "Top_Left_Pixel": [
+            1100,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            1150,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Females_Shockwave",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Females_Shockwave",
+        "Top_Left": "Z13",
+        "Bot_Right": "Z14",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/SWT.png",
+        "Top_Left_Pixel": [
+            1250,
+            600
+        ],
+        "Bot_Right_Pixel": [
+            1300,
+            650
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_6",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Radiology_(XR)",
+        "Top_Left": "Q2",
+        "Bot_Right": "T5",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Radiology_XR",
+        "Top_Left_Pixel": [
+            800,
+            50
+        ],
+        "Bot_Right_Pixel": [
+            950,
+            200
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_7",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Radiology_(MRI)",
+        "Top_Left": "K4",
+        "Bot_Right": "M5",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Radiology_MRI",
+        "Top_Left_Pixel": [
+            500,
+            150
+        ],
+        "Bot_Right_Pixel": [
+            600,
+            200
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Male_Plaster_Room",
+        "Top_Left": "R10",
+        "Bot_Right": "S15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/M_PlasterRoom.png",
+        "Top_Left_Pixel": [
+            850,
+            450
+        ],
+        "Bot_Right_Pixel": [
+            900,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Female_Plaster_Room",
+        "Top_Left": "AE12",
+        "Bot_Right": "AE15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/F_PlasterRoom.png",
+        "Top_Left_Pixel": [
+            1500,
+            550
+        ],
+        "Bot_Right_Pixel": [
+            1500,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Common_Procedure_Room",
+        "Top_Left": "AC15",
+        "Bot_Right": "AD15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/CPR.png",
+        "Top_Left_Pixel": [
+            1380,
+            710
+        ],
+        "Bot_Right_Pixel": [
+            1470,
+            710
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Elevator/stairs",
+        "Top_Left": "W2",
+        "Bot_Right": "W5",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Elevator.png",
+        "Top_Left_Pixel": [
+            1200,
+            200
+        ],
+        "Bot_Right_Pixel": [
+            1200,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Cafeteria",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Cafeteria",
+        "Top_Left": "AA2",
+        "Bot_Right": "AB3",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Cafeteria.png",
+        "Top_Left_Pixel": [
+            1285,
+            85
+        ],
+        "Bot_Right_Pixel": [
+            1348,
+            91
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Cashier",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Cashier",
+        "Top_Left": "AA2",
+        "Bot_Right": "AB3",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Cashier.png",
+        "Top_Left_Pixel": [
+            1411,
+            178
+        ],
+        "Bot_Right_Pixel": [
+            1430,
+            261
+       ]
+},
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Gent's_restroom_1",
+        "Top_Left": "B10",
+        "Bot_Right": "B10",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Gents_toilet.png",
+        "Top_Left_Pixel": [
+            50,
+            450
+        ],
+        "Bot_Right_Pixel": [
+            50,
+            450
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Gent's_restroom_2",
+        "Top_Left": "K8",
+        "Bot_Right": "K8",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Gents_toilet.png",
+        "Top_Left_Pixel": [
+            500,
+            350
+        ],
+        "Bot_Right_Pixel": [
+            500,
+            350
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Gent's_restroom_1",
+        "Top_Left": "L17",
+        "Bot_Right": "L17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Gents_toilet.png",
+        "Top_Left_Pixel": [
+            550,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            550,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Gent's_restroom_2",
+        "Top_Left": "Z16",
+        "Bot_Right": "Z17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Gents_toilet.png",
+        "Top_Left_Pixel": [
+            1250,
+            750
+        ],
+        "Bot_Right_Pixel": [
+            1250,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Ladies_restroom_5",
+        "Top_Left": "J10",
+        "Bot_Right": "J11",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Ladies_toilet.png",
+        "Top_Left_Pixel": [
+            450,
+            450
+        ],
+        "Bot_Right_Pixel": [
+            450,
+            500
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Ladies_restroom_5",
+        "Top_Left": "P8",
+        "Bot_Right": "P8",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Ladies_toilet.png",
+        "Top_Left_Pixel": [
+            750,
+            350
+        ],
+        "Bot_Right_Pixel": [
+            750,
+            350
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Ladies_restroom_5",
+        "Top_Left": "P16",
+        "Bot_Right": "P17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Ladies_toilet.png",
+        "Top_Left_Pixel": [
+            750,
+            750
+        ],
+        "Bot_Right_Pixel": [
+            750,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Ladies_restroom_5",
+        "Top_Left": "AF15",
+        "Bot_Right": "AG15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Ladies_toilet.png",
+        "Top_Left_Pixel": [
+            1550,
+            700
+        ],
+        "Bot_Right_Pixel": [
+            1600,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "NA",
+        "Unit_Name": "Ladies_restroom_5",
+        "Top_Left": "AA12",
+        "Bot_Right": "AA13",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Ladies_toilet.png",
+        "Top_Left_Pixel": [
+            1300,
+            550
+        ],
+        "Bot_Right_Pixel": [
+            1300,
+            600
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Men_Waiting_Area_2",
+        "Top_Left": "C10",
+        "Bot_Right": "E10",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Men_WA.png",
+        "Top_Left_Pixel": [
+            100,
+            450
+        ],
+        "Bot_Right_Pixel": [
+            200,
+            450
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Men_Waiting_Area_3",
+        "Top_Left": "V12",
+        "Bot_Right": "W12",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Men_WA.png",
+        "Top_Left_Pixel": [
+            1050,
+            550
+        ],
+        "Bot_Right_Pixel": [
+            1100,
+            550
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_4",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Men_Waiting_Area_4",
+        "Top_Left": "AA16",
+        "Bot_Right": "AA17",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Men_WA.png",
+        "Top_Left_Pixel": [
+            1300,
+            750
+        ],
+        "Bot_Right_Pixel": [
+            1300,
+            800
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_6",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Men_Waiting_Area_6",
+        "Top_Left": "K7",
+        "Bot_Right": "L7",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Men_WA.png",
+        "Top_Left_Pixel": [
+            500,
+            300
+        ],
+        "Bot_Right_Pixel": [
+            550,
+            300
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_2",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Ladies_Waiting_Area_2",
+        "Top_Left": "G10",
+        "Bot_Right": "I10",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Women_WA.png",
+        "Top_Left_Pixel": [
+            300,
+            450
+        ],
+        "Bot_Right_Pixel": [
+            400,
+            450
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_3",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Ladies_Waiting_Area_3",
+        "Top_Left": "V13",
+        "Bot_Right": "W13",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Women_WA.png",
+        "Top_Left_Pixel": [
+            1050,
+            600
+        ],
+        "Bot_Right_Pixel": [
+            1100,
+            600
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_4",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Ladies_Waiting_Area_4",
+        "Top_Left": "Y14",
+        "Bot_Right": "XZ14",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Women_WA.png",
+        "Top_Left_Pixel": [
+            1200,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            32450,
+            650
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception_6",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Ladies_Waiting_Area_6",
+        "Top_Left": "Q2",
+        "Bot_Right": "R2",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Women_WA.png",
+        "Top_Left_Pixel": [
+            800,
+            50
+        ],
+        "Bot_Right_Pixel": [
+            850,
+            50
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "Ground",
+        "Unit_Name": "SSTO",
+        "Top_Left": "H6",
+        "Bot_Right": "I6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/STO.png",
+        "Top_Left_Pixel": [
+            350,
+            250
+        ],
+        "Bot_Right_Pixel": [
+            400,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Route1_(HU)",
+        "Top_Left": "F6",
+        "Bot_Right": "AC6",
+        "Icon_Path": "NA",
+        "Top_Left_Pixel": [
+            250,
+            250
+        ],
+        "Bot_Right_Pixel": [
+            1400,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Route2_(HD)",
+        "Top_Left": "A16",
+        "Bot_Right": "AF16",
+        "Icon_Path": "NA",
+        "Top_Left_Pixel": [
+            0,
+            750
+        ],
+        "Bot_Right_Pixel": [
+            1550,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Route3_(VL1)",
+        "Top_Left": "C11",
+        "Bot_Right": "C16",
+        "Icon_Path": "NA",
+        "Top_Left_Pixel": [
+            100,
+            500
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Route4_(VL2)",
+        "Top_Left": "I11",
+        "Bot_Right": "I16",
+        "Icon_Path": "NA",
+        "Top_Left_Pixel": [
+            400,
+            500
+        ],
+        "Bot_Right_Pixel": [
+            400,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Route4_(VL3)",
+        "Top_Left": "U6",
+        "Bot_Right": "U16",
+        "Icon_Path": "NA",
+        "Top_Left_Pixel": [
+            1000,
+            250
+        ],
+        "Bot_Right_Pixel": [
+            1000,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "Ground",
+        "Unit_Name": "Route6_(VL4)",
+        "Top_Left": "Z6",
+        "Bot_Right": "Z16",
+        "Icon_Path": "NA",
+        "Top_Left_Pixel": [
+            1250,
+            250
+        ],
+        "Bot_Right_Pixel": [
+            1250,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 8",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 201",
+        "Top_Left": "A3",
+        "Bot_Right": "B4",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic201",
+        "Top_Left_Pixel": [
+            0,
+            100
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            150
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 8",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 202",
+        "Top_Left": "A5",
+        "Bot_Right": "B6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic202",
+        "Top_Left_Pixel": [
+            0,
+            200
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 8",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 203",
+        "Top_Left": "A7",
+        "Bot_Right": "B8",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic203",
+        "Top_Left_Pixel": [
+            0,
+            300
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            350
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 8",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 204",
+        "Top_Left": "A8",
+        "Bot_Right": "B9",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic204",
+        "Top_Left_Pixel": [
+            0,
+            350
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            400
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Lab",
+        "Top_Left": "A14",
+        "Bot_Right": "B15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic209",
+        "Top_Left_Pixel": [
+            0,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            100,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Injection Room",
+        "Top_Left": "E17",
+        "Bot_Right": "E18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic205",
+        "Top_Left_Pixel": [
+            200,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            250,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 211",
+        "Top_Left": "F17",
+        "Bot_Right": "F18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic122",
+        "Top_Left_Pixel": [
+            250,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            300,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 212",
+        "Top_Left": "G17",
+        "Bot_Right": "G18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic123",
+        "Top_Left_Pixel": [
+            300,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            350,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 215",
+        "Top_Left": "J17",
+        "Bot_Right": "J18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic126",
+        "Top_Left_Pixel": [
+            450,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            500,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 216",
+        "Top_Left": "K17",
+        "Bot_Right": "K18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic131",
+        "Top_Left_Pixel": [
+            500,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            550,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 217",
+        "Top_Left": "N17",
+        "Bot_Right": "N18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic132",
+        "Top_Left_Pixel": [
+            650,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            700,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Clinic 218",
+        "Top_Left": "O17",
+        "Bot_Right": "O18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Clinic133",
+        "Top_Left_Pixel": [
+            700,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            750,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Male Plaster Room",
+        "Top_Left": "G14",
+        "Bot_Right": "M15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/MPR.png",
+        "Top_Left_Pixel": [
+            300,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            600,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Female Plaster Room",
+        "Top_Left": "A14",
+        "Bot_Right": "E3",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/FPR.png",
+        "Top_Left_Pixel": [
+            0,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            200,
+            100
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Elevators/stairs",
+        "Top_Left": "K10",
+        "Bot_Right": "N11",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Elevator.png",
+        "Top_Left_Pixel": [
+            500,
+            450
+        ],
+        "Bot_Right_Pixel": [
+            700,
+            500
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Gent's restroom 1",
+        "Top_Left": "H6",
+        "Bot_Right": "I6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Gents_toilet.png",
+        "Top_Left_Pixel": [
+            350,
+            250
+        ],
+        "Bot_Right_Pixel": [
+            400,
+            300
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Gent's restroom 2",
+        "Top_Left": "C17",
+        "Bot_Right": "C18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Gents_toilet.png",
+        "Top_Left_Pixel": [
+            100,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            150,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Ladies restroom 4",
+        "Top_Left": "K6",
+        "Bot_Right": "L6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Ladies_toilet.png",
+        "Top_Left_Pixel": [
+            500,
+            250
+        ],
+        "Bot_Right_Pixel": [
+            550,
+            300
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Ladies restroom 5",
+        "Top_Left": "I17",
+        "Bot_Right": "I18",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Ladies_toilet.png",
+        "Top_Left_Pixel": [
+            400,
+            800
+        ],
+        "Bot_Right_Pixel": [
+            450,
+            850
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 8",
+        "Floor_Name": "First",
+        "Unit_Name": "Men Waiting Area 8",
+        "Top_Left": "E4",
+        "Bot_Right": "E6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Men_WA.png",
+        "Top_Left_Pixel": [
+            200,
+            150
+        ],
+        "Bot_Right_Pixel": [
+            250,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Men Waiting Area 9",
+        "Top_Left": "S14",
+        "Bot_Right": "T15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Men_WA.png",
+        "Top_Left_Pixel": [
+            900,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            950,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 8",
+        "Floor_Name": "First",
+        "Unit_Name": "Ladies Waiting Area 8",
+        "Top_Left": "D4",
+        "Bot_Right": "D6",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Women_WA.png",
+        "Top_Left_Pixel": [
+            150,
+            150
+        ],
+        "Bot_Right_Pixel": [
+            200,
+            250
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "Reception 9",
+        "Floor_Name": "First",
+        "Unit_Name": "Ladies Waiting Area 9",
+        "Top_Left": "P14",
+        "Bot_Right": "O15",
+        "Icon_Path": "https://storage.googleapis.com/lara_assets/AR_markers/Women_WA.png",
+        "Top_Left_Pixel": [
+            750,
+            650
+        ],
+        "Bot_Right_Pixel": [
+            700,
+            700
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Route1 (HU)",
+        "Top_Left": "C7",
+        "Bot_Right": "R7",
+        "Icon_Path": "NA/NA",
+        "Top_Left_Pixel": [
+            100,
+            300
+        ],
+        "Bot_Right_Pixel": [
+            850,
+            350
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Route2 (HD)",
+        "Top_Left": "E8",
+        "Bot_Right": "P8",
+        "Icon_Path": "NA/NA",
+        "Top_Left_Pixel": [
+            200,
+            350
+        ],
+        "Bot_Right_Pixel": [
+            750,
+            400
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Route3 (VL)",
+        "Top_Left": "C3",
+        "Bot_Right": "C16",
+        "Icon_Path": "NA/NA",
+        "Top_Left_Pixel": [
+            100,
+            100
+        ],
+        "Bot_Right_Pixel": [
+            150,
+            750
+        ]
+    },
+    {
+        "\ufeffUnit_Ref": "NA",
+        "Floor_Name": "First",
+        "Unit_Name": "Route5 (VR)",
+        "Top_Left": "M4",
+        "Bot_Right": "M8",
+        "Icon_Path": "NA/NA",
+        "Top_Left_Pixel": [
+            600,
+            150
+        ],
+        "Bot_Right_Pixel": [
+            650,
+            350
+        ]
+    }
+]

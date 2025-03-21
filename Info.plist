@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <!-- ✅ App Transport Security (Ensures Network Access) -->
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+
+    <!-- ✅ Application Identity -->
+    <key>CFBundleIdentifier</key>
+    <string>xyz.Kushite.SWIN</string>
+    <key>CFBundleDisplayName</key>
+    <string>SWIN</string>
+    <key>CFBundleName</key>
+    <string>SWIN</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+
+    <!-- ✅ REQUIRED for macOS App Recognition -->
+    <key>CFBundlePackageType</key>
+    <string>APPL</string> <!-- ✅ Fixes app launch issues -->
+
+    <!-- ✅ Application Category (Required for macOS App Store) -->
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string> <!-- ✅ Update based on category -->
+
+    <!-- ✅ App Icon Configuration -->
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    
+        <key>CFBundlePrimaryIcon</key>
+        <dict>
+            <key>CFBundleIconFiles</key>
+            <array>
+                <string>AppIcon</string> <!-- ✅ Matches Assets.xcassets -->
+            </array>
+            <key>CFBundleIconName</key>
+            <string>AppIcon</string>
+        </dict>
+    </dict>
+
+    <!-- ✅ Network & Location Permissions -->
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>This app requires access to local network data to process WiFi-based positioning.</string>
+
+    <key>NSBonjourServices</key>
+    <array>
+        <string>_http._tcp</string>
+        <string>_https._tcp</string>
+    </array>
+
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>SWIN needs location access to determine indoor positioning using WiFi.</string>
+
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>This app requires continuous access to location data for real-time positioning.</string>
+
+    <!-- ✅ Fullscreen Mode & UI Behavior -->
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>NSQuitAlwaysKeepsWindows</key>
+    <false/>
+    <key>UIApplicationExitsOnSuspend</key>
+    <true/> <!-- ✅ Prevents UI Restoration Errors -->
+
+    <!-- ✅ Privacy API Access -->
+    <key>NSPrivacyAccessedAPINetworkConnections</key>
+    <array>
+        <string>NSPrivacyAccessedAPICategoryWiFiInformation</string>
+    </array>
+
+    <!-- ✅ Ensures Correct App Launch (Fixes Blank Screen) -->
+    <key>NSMainStoryboardFile</key>
+    <string></string>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+
+    <!-- ✅ macOS Window Configuration (Fix Empty Screen) -->
+    <key>LSMinimumSystemVersion</key>
+    <string>15.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+
+    <!-- ✅ Performance Optimization -->
+    <key>NSApplicationSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+
+    <!-- ✅ Fixes Scaling Issues on Retina Displays -->
+    <key>NSPrefersDisplaySafeAreaCompatibilityMode</key>
+    <true/>
+
+    <!-- ✅ Required Permissions for App Sandbox -->
+    <key>com.apple.security.app-sandbox</key>
+    <true/>
+    <key>com.apple.security.network.client</key>
+    <true/>
+    <key>com.apple.security.files.user-selected.read-write</key>
+    <true/>
+    <key>com.apple.security.network.server</key>
+    <true/>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Access to load floor plan images</string>
+    <key>com.apple.security.files.user-selected.read-only</key>
+    <true/>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+</dict>
+</plist>
